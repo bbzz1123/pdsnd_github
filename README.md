@@ -14,5 +14,19 @@ washington.csv
 chicago.csv
 new_york_city.csv
 
+### Data display
+most commonly used end station,
+most commonly used start station,
+most frequent combination of start station and end station trip,
+most common month,
+most common day of week,
+most common start hour,
+total travel time,
+mean travel time,
+counts of user types,
+counnts of user gender,
+earliest, most recent,
+and most common year of birth
+
 ### Credits
 pandas.pydata.org - I used this site to review pandas commands 
