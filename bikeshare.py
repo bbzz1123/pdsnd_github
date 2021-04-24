@@ -155,7 +155,7 @@ def user_stats(df):
         common = df['birth'].mode()[0]
         print("Birth year data:", earliest, recent, common)
     else:
-       print('No Birth year data in this city')
+       print('No such data in this city')
         
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
