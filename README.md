@@ -30,3 +30,5 @@ and most common year of birth
 
 ### Credits
 pandas.pydata.org - I used this site to review pandas commands 
+Aritra96 - inspired the structure of my codes <Aritra96/bikeshare-project>
+pss2138 - inspired the structure of my codes <pss2138/Udacity-Programming-for-Data-Science-with-Python-Project2>
